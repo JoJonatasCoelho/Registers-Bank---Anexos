@@ -1,5 +1,8 @@
 # Registers Bank - Anexos
 
+## RegistersBank
+Armazena o relatório
+
 ## Circuit.sv
 Contem o circuito usado nos testes, para visualizar basta que o visualizador tenha a extensão do Digital Js em seu Visual Studio Code ou acesse o site oficial do Digital Js
 
